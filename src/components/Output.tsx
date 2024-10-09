@@ -62,7 +62,7 @@ const style = StyleSheet.create({
     },
 
     outputTxt: {
-        fontSize: 15,
+        fontSize: 25,
         fontWeight: '600',
         // color: '#3C3D37',
     },

@@ -46,7 +46,7 @@ const style = StyleSheet.create({
         marginVertical:5,
     },
     checkboxText:{
-        fontSize:15,
+        fontSize:25,
         fontWeight:'600',
     },
 });
